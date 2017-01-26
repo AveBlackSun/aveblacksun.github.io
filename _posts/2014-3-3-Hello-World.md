@@ -7,4 +7,4 @@ title: Ну че бра, поехали!
 
 ![_config.yml]({{ site.baseurl }}/images/ololo.jpg)
 
-Здесь был карочи типо треп про то, что надо отредактировать наш первый пост "Здаров Мир". Ну я и поправил. Вот кстати ссылочка на репу [Jekyll Now repository](https://github.com/AveBlackSun/aveblacksun.github.io) на ГитХубе.
+Здесь был карочи типо треп про то, что надо отредактировать наш первый пост "Здаров Мир". Ну я и поправил. Вот кстати ссылочка на репу [Моя репа](https://github.com/AveBlackSun/aveblacksun.github.io) на ГитХубе.
